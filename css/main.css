@@ -1,0 +1,116 @@
+/* Inserta tu codigo aqui */
+nav ul{
+       list-style-type: none;
+       padding-top: 3px;
+       margin:20px;
+       float: right;
+       font-size: 11px;
+       
+       line-height: 5px;
+       line-height: 14px;
+       
+       white-space: nowrap;
+       font-family: Arial;
+
+ }
+
+ nav li{
+ 	   text-align: center;
+       position: relative;
+       right: 300px;
+       float: left;
+       margin: 0;
+       padding: 0;
+}
+
+nav li:hover a{
+  background: #5EBF66;
+}
+
+nav a{
+  text-decoration: none;
+  padding:  10px 15px;
+  color: #000000;
+  
+}
+
+nav a:hover{
+  color: white;
+}
+
+.titulo{
+ text-align: center;
+ margin-top: 20px;
+}
+.fondo{
+     width: 1040px;
+     height: 330px;
+     background-size:100%;
+     background-image: url("../img/dance_1.jpg");
+     background-repeat: no-repeat;
+     }
+
+.st{
+    font-size: 40px;
+    color: white;
+    position: relative;
+    left: 20px;
+}
+
+.txt{
+	font-size: 30px;
+	width: 230px;
+	color: silver;
+	float: left;
+	margin-right: auto;
+	margin-top: 50px;
+    margin-left: 60px;
+}
+
+.pie p{
+      margin-top: 10px;
+      font-size: 15px;
+     
+}
+
+.caja{
+     width: 100px;
+     height: 30px;
+     color: silver;
+     background-color: #070B19;
+     font-size: 10px;
+     margin-top: 20px;
+     padding: 7px 10px;
+     text-align: center;     
+}
+
+.intro{
+      margin-top:40px;
+      text-align: center;
+      position: relative;
+      left: 230px;
+      }
+
+
+.ador{
+	width: 120px;
+	position: relative;
+	margin-top: -30px;
+}
+
+.fond{
+     width: 100%;
+     height: 160px;
+     background-image: url ("../img/cubes.png");
+     background-repeat:initial;
+     }
+
+.azul{
+	
+	width: 180px; 
+    position: relative;
+    left: 400px;
+    margin-top: -30px;
+    margin-bottom: 70px;
+}
+
